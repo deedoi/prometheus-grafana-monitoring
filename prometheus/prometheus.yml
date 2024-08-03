@@ -16,7 +16,7 @@ scrape_configs: # Scrape configuration for different jobs
     static_configs:
       - targets: ["pihole-exporter:9617"]
     metrics_path: /metrics
-  - job_name: "node_exporter:9100"
+  - job_name: "node_exporter"
     static_configs:
       - targets: ["node_exporter:9100"]
   - job_name: "mac_mini"

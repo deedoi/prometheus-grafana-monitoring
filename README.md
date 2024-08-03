@@ -7,7 +7,7 @@ This project create a monitoring system using Prometheus and Grafana, as well as
 This setup includes:
 - Prometheus: For collecting and storing metrics
 - Grafana: For visualizing and dashboarding the collected metrics
-- Node Exporter: For collecting detailed macOS metrics exporter
+- Node Exporter: For collecting detailed macOS metrics exporter, https://github.com/prometheus/node_exporter/releases
 - Pi-hole Exporter: Pi-hole DNS statistics exporter
 
 ## Prerequisites
