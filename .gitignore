@@ -1,0 +1,4 @@
+.env
+#Ignore Grafana dashboard config files
+/Grafana config/Mac mini _ Node_Exporter.json
+/Grafana config/Pi-Hole DNS.json
