@@ -44,3 +44,13 @@ docker-compose up -d
 - The current setup uses the latest versions of Grafana and Prometheus. Be aware of any breaking changes when updating.
 - Customize the Grafana dashboards to suit your specific monitoring needs.
 - Consider setting up alerting in Grafana for important metrics.
+![Prometheus targets](https://github.com/user-attachments/assets/ef8b91f6-0524-41d3-ad1e-c4dd55cf8eed)
+
+![Node exporter metrics run](https://github.com/user-attachments/assets/5e2b170a-b228-4a02-858b-d2d9c4214f62)
+
+![Grafana login page](https://github.com/user-attachments/assets/c6afdb4f-8451-4e7a-9655-e3328c5f2cb8)
+
+![Pihole Dashboard](https://github.com/user-attachments/assets/96790e15-ec61-4f1d-bf08-def2ae2995a9)
+
+![mac mini dashboard](https://github.com/user-attachments/assets/b3f643bb-b60b-4874-b482-9095e0a7331d)
+
